@@ -52,6 +52,14 @@ namespace MyApp// Note: actual namespace depends on the project name.
             Console.WriteLine("\n");
 
             //imprimiendo datos
+            Console.WriteLine("Su nombre es: " + Nombre);
+            Console.WriteLine("Su edad es: " + edad);
+            Console.WriteLine("Su direccion es: " + direccion);
+            Console.WriteLine("Su telefono es: " + telefono);
+            Console.WriteLine("estudia en la universidad: " + universidad);
+            Console.WriteLine("Su carrera es: " + carrera);
+            Console.WriteLine("Su facultad que pertenece es: " + facultad);
+            Console.WriteLine("Su ciclo cursando es: " + ciclo);
             
 
 

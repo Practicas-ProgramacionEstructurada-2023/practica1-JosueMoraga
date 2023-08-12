@@ -1,0 +1,14 @@
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\bin\Debug\net7.0\practica1-JosueMoraga.exe
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\bin\Debug\net7.0\practica1-JosueMoraga.deps.json
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\bin\Debug\net7.0\practica1-JosueMoraga.runtimeconfig.json
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\bin\Debug\net7.0\practica1-JosueMoraga.dll
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\bin\Debug\net7.0\practica1-JosueMoraga.pdb
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\obj\Debug\net7.0\practica1-JosueMoraga.GeneratedMSBuildEditorConfig.editorconfig
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\obj\Debug\net7.0\practica1-JosueMoraga.AssemblyInfoInputs.cache
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\obj\Debug\net7.0\practica1-JosueMoraga.AssemblyInfo.cs
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\obj\Debug\net7.0\practica1-JosueMoraga.csproj.CoreCompileInputs.cache
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\obj\Debug\net7.0\practica1-JosueMoraga.dll
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\obj\Debug\net7.0\refint\practica1-JosueMoraga.dll
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\obj\Debug\net7.0\practica1-JosueMoraga.pdb
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\obj\Debug\net7.0\practica1-JosueMoraga.genruntimeconfig.cache
+F:\UNIVO\Programacion estructurada\Repositorio_Practica\practica1-JosueMoraga\obj\Debug\net7.0\ref\practica1-JosueMoraga.dll
